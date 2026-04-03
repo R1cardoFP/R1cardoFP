@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">Full-Stack Developer | Building Web Applications, APIs & Systems</h3>
 
