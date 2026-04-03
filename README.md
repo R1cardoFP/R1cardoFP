@@ -67,8 +67,3 @@ APIs & Backend Systems • Web Applications • Full-stack Projects
 
 ---
 
-<h3 align="center">📫 Contact</h3>
-
-<p align="center">
-📧 your@email.com
-</p>
